@@ -1,5 +1,7 @@
 //Add constant variable that holds url for the backend
-const BACKEND_ROOT_URL = 'http://localhost:3001';
+//const BACKEND_ROOT_URL = 'http://localhost:3001';
+//Change the backend url for the client
+const BACKEND_ROOT_URL = 'https://to-do-backend-pruw.onrender.com'
 
 // Import the Todos class from the specified file
 import {Todos} from "./class/Todos.js"
